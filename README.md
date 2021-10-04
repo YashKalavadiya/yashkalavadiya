@@ -136,12 +136,12 @@ var developements = {
 </a>
  -->
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=yash10102002&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
+      <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=yash10102002&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
  </a>  
-  <a href="(https://git.io/streak-stats" title="Go to Source">
-      <img align="right" width="40%" src="http://github-readme-streak-stats.herokuapp.com?user=yash10102002&theme=react&border=61DAFB&fire=DDB80F"/>
+  <a href="https://git.io/streak-stats" title="Go to Source">
+      <img align="right" width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=yash10102002&theme=react&border=61DAFB&fire=DDB80F"/>
  </a>
-
+<br/>
 <div align=center>
     
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
