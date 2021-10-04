@@ -135,15 +135,15 @@ var developements = {
     <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=yash10102002&theme=react&border_color=61dafb&langs_count=13" alt="sudip's wakatime" />
 </a>
  -->
-
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=yash10102002&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
+ </a>  
+  <a href="(https://git.io/streak-stats" title="Go to Source">
+      <img align="right" width="40%" src="http://github-readme-streak-stats.herokuapp.com?user=yash10102002&theme=react&border=61DAFB&fire=DDB80F"/>
+ </a>
 
 <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=yash10102002&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
- </a>
-<a href="(https://git.io/streak-stats" title="Go to Source">
-      <img align="right" width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=yash10102002&theme=react&border=61DAFB&fire=DDB80F"/>
- </a>
+    
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=yash10102002&theme=onedark&column=8" alt="zumrudu-anka" />
     </a>
