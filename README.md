@@ -24,11 +24,11 @@ var developements = {
     },
 }
 ```
-<div align=right>
+<!-- <div align=right>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash10102002&langs_count=20&theme=highcontrast&layout=compact" />
     </a>
-</div>
+</div> -->
 
 
 - 👨‍💻 All of my projects are available at
@@ -136,10 +136,10 @@ var developements = {
 </a>
  -->
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=yash10102002&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
+      <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=yash10102002&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
  </a>
 <a href="(https://git.io/streak-stats" title="Go to Source">
-      <img align="right" width=396 src="http://github-readme-streak-stats.herokuapp.com?user=yash10102002&theme=react&border=61DAFB&fire=DDB80F"/>
+      <img align="right" width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=yash10102002&theme=react&border=61DAFB&fire=DDB80F"/>
  </a>
 
 <div align=center>
