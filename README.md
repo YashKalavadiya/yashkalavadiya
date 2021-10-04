@@ -131,10 +131,10 @@ var developements = {
 ## 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=yash10102002&theme=react&border_color=61dafb&langs_count=13" alt="sudip's wakatime" />
 </a>
-
+ -->
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=yash10102002&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
  </a>
@@ -149,14 +149,5 @@ var developements = {
 </div>
 
 ##
-<h3 align="center">Connect with me:</h3>
-<p align="center">
 
-    <a href="https://www.linkedin.com/in/yash-kalavadiya-789141170/" target="blank"><img align="center"
-            src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
-            width="40" /></a>
-    <a href="https://www.instagram.com/yashkalavadiya1010/" target="blank"><img align="center"
-            src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"
-            width="40" /></a>
-</p>
 
