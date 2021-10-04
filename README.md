@@ -141,14 +141,17 @@ var developements = {
   <a href="https://git.io/streak-stats" title="Go to Source">
       <img align="right" width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=yash10102002&theme=react&border=61DAFB&fire=DDB80F"/>
  </a>
+ <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=yash10102002&theme=onedark&column=8" alt="zumrudu-anka" />
+    </a>
 <br/>
-<div align=center>
+<!-- <div align=center>
     
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=yash10102002&theme=onedark&column=8" alt="zumrudu-anka" />
     </a>
 </div>
-
+ -->
 ##
 
 
