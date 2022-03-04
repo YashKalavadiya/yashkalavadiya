@@ -32,13 +32,13 @@ var developements = {
 
 
 - 👨‍💻 All of my projects are available at
-[https://github.com/yash10102002/](https://github.com/yash10102002/)
+[https://github.com/yashkalavadiya/](https://github.com/yashkalavadiya/)
 
 - 📫 How to reach me, drop an email at **yashkalavadiya1010@gmail.com**
 <!-- - My CV website:  -->
 - Thanks for visiting this profile. Follow me to get all the updates about my repositories and my open source works.
 ## 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yash10102002&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yashkalavadiya&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ##
 
@@ -136,12 +136,12 @@ var developements = {
 </a>
  -->
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=yash10102002&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
+      <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=yashkalavadiya&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
  </a>  
   <a href="https://git.io/streak-stats" title="Go to Source">
-      <img align="right" width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=yash10102002&theme=react&border=61DAFB&fire=DDB80F"/>
+      <img align="right" width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=yashkalavadiya&theme=react&border=61DAFB&fire=DDB80F"/>
  </a>
-<div style="display: flex, justify-content: center, align-tems: center;"><a title="Go to Source" href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=yash10102002&amp;theme=onedark&amp;column=6" alt="zumrudu-anka" width="100%" align="center" /> </a></div>
+<div style="display: flex, justify-content: center, align-tems: center;"><a title="Go to Source" href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=yashkalavadiya&amp;theme=onedark&amp;column=6" alt="zumrudu-anka" width="100%" align="center" /> </a></div>
 <br/>
 <!-- <div align=center>
     
