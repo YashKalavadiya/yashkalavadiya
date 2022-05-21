@@ -5,34 +5,27 @@
 
 ```sh
 var developements = {
+    "languages": ["C", "C++", "Javascript", "Typescript", "Golang", "Java", "python", "PHP"]
     "Web Development" : {
-        "Languages" : [ "HTML" , "CSS", "JavaScript", "TypeScript" ] ,
+        "Languages" : [ "HTML" , "CSS", "JavaScript", "TypeScript"] ,
         "Frameworks & Libraries" : [ "Node.js", "Express.js", "MongoDB", 
-                        "MySQL", "React", "Angular", "Bootstrap", "Material UI", "GraphQL", "Redux"]
+                        "MySQL", "React", "Angular", "Next js", "Bootstrap", "Material UI", "GraphQL", "Redux"]
     },
-    "Native App Development" : {
-        "Languages" : ["HTML", "JAVA", "TypeScript"] ,
-        "Frameworks & Tools" : ["Angular", "Ionic", "Android Studio", "Google APIs"]
+    "App Development" : {
+        "Languages" : ["JavaScript", "JAVA"] ,
+        "Frameworks & Tools" : ["React Native", "Expo", "Ionic", "Redux", "Android Studio"]
     },
-    "Hybrid App Development" : {
-        "Languages": ["JavaScript"],
-        "Framework & Libraries": ["React Native", "Expo", "Ionic", "Redux"]
-    }
     "Desktop App Development" : {
         "Languages" : ["JavaScript"],
         "Libraries" : ["electron"]
     },
+    "devops & cloud": {
+        "languages": ["YAML", "JSON", "bash", ...developments["languages"]],
+        "Tools and Technologies": ["AWS", "GCP", "Docker", "Kubernetes", "ansible", "Github CI/CD"]
+    },
+    "detabases": ["MySQL", "MongoDB", "PostgreSQL", "PrismaDB", "NeDB"]
 }
 ```
-<!-- <div align=right>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash10102002&langs_count=20&theme=highcontrast&layout=compact" />
-    </a>
-</div> -->
-
-
-- 👨‍💻 All of my projects are available at
-[https://github.com/yashkalavadiya/](https://github.com/yashkalavadiya/)
 
 - 📫 How to reach me, drop an email at **yashkalavadiya1010@gmail.com**
 <!-- - My CV website:  -->
@@ -50,18 +43,12 @@ var developements = {
     <a href="https://angular.io/" target="_blank" title ="Angular"> <img
             src="https://brandslogos.com/wp-content/uploads/thumbs/angular-logo-vector.svg"
             alt="angular" width="40" height="40" /> </a>
-<!--     <a href="https://azure.microsoft.com/en-in/" target="_blank" title ="Azure"> <img
-            src="https://pngimage.net/wp-content/uploads/2018/05/azure-logo-png-8.png"
-            alt="azure" width="50" height="35" /> </a> -->
     <a href="https://aws.amazon.com/" target="_blank" title ="AWS"> <img
             src="https://mk0futurumreseabr7pm.kinstacdn.com/wp-content/uploads/2020/01/aws-logo.png"
             alt="aws" width="40" height="40" /> </a>
     <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /> </a>
-<!--     <a href="https://bootstrapstudio.io/" target="_blank" title ="bootstrap studio"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bootstrap_Studio_Logo.png/768px-Bootstrap_Studio_Logo.png"
-            alt="bootstrap studio" width="40" height="40" /> </a> -->
     <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40" /> </a>
@@ -71,9 +58,6 @@ var developements = {
     <a href="https://www.w3schools.com/css/" target="_blank" title ="CSS">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" /> </a>
-<!--     <a href="https://ejs.co/" target="_blank" title ="EJS"> <img
-            src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" alt="Ejs" width="40"
-            height="40" /> </a> -->
     <a href="https://expressjs.com" target="_blank" title ="Express.js"> <img
             src="https://cdn.buttercms.com/8am8PZECScDawQa33Lv2"
             alt="express" width="40" height="40" /> </a>
@@ -118,23 +102,8 @@ var developements = {
     <a href="https://www.typescriptlang.org/" target="_blank" title ="Typescript"> <img
             src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"
             alt="typescript" width="40" height="40" /> </a>
-<!--     <a href="https://www.unrealengine.com/en-US/" target="_blank" title ="Unreal Engine"> <img
-            src="https://user-images.githubusercontent.com/16515307/33282121-0309b13a-d3eb-11e7-84b0-6d322ca89a5a.png"
-            alt="unreal engine" width="40" height="40" /> </a> -->
-<!--     <a href="https://www.xml.com/" target="_blank" title ="XML"> <img
-            src="https://cdn.iconscout.com/icon/free/png-512/xml-file-2330558-1950399.png"
-            alt="XML" width="40" height="40" /> </a>
- -->
-
 </p> 
-
 ## 
-
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=yash10102002&theme=react&border_color=61dafb&langs_count=13" alt="sudip's wakatime" />
-</a>
- -->
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=yashkalavadiya&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
  </a>  
@@ -143,10 +112,4 @@ var developements = {
  </a>
 <div style="display: flex, justify-content: center, align-tems: center;"><a title="Go to Source" href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=yashkalavadiya&amp;theme=onedark&amp;column=6" alt="zumrudu-anka" width="100%" align="center" /> </a></div>
 <br/>
-<!-- <div align=center>
-    
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=yash10102002&theme=onedark&column=8" alt="zumrudu-anka" />
-    </a>
-</div>
- -->
+
