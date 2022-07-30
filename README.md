@@ -103,7 +103,6 @@ var developements = {
             src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"
             alt="typescript" width="40" height="40" /> </a>
 </p> 
-## 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=yashkalavadiya&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
  </a>  
