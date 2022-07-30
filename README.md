@@ -110,6 +110,6 @@ var developements = {
   <a href="https://git.io/streak-stats" title="Go to Source">
       <img align="right" width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=yashkalavadiya&theme=react&border=61DAFB&fire=DDB80F"/>
  </a>
-<div style="display: flex, justify-content: center, align-tems: center;"><a title="Go to Source" href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=yashkalavadiya&amp;theme=onedark&amp;column=6" alt="zumrudu-anka" width="100%" align="center" /> </a></div>
+
 <br/>
 
