@@ -32,7 +32,7 @@ var developements = {
 - Thanks for visiting this profile. Follow me to get all the updates about my repositories and my open source works.
 ## 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yashkalavadiya&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-```
+<!--
 ##
 
 <h3 align="left">Languages and Tools:</h3>
@@ -103,7 +103,7 @@ var developements = {
             src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"
             alt="typescript" width="40" height="40" /> </a>
 </p> 
-```
+-->
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=yashkalavadiya&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
  </a>  
