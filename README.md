@@ -23,7 +23,7 @@ var developements = {
         "languages": ["YAML", "JSON", "bash", ...developments["languages"]],
         "Tools and Technologies": ["AWS", "GCP", "Docker", "Kubernetes", "ansible", "Github CI/CD"]
     },
-    "detabases": ["MySQL", "MongoDB", "PostgreSQL", "PrismaDB", "NeDB"]
+    "databases": ["MySQL", "MongoDB", "PostgreSQL", "PrismaDB", "NeDB"]
 }
 ```
 
