@@ -26,10 +26,6 @@ var developements = {
     "databases": ["MySQL", "MongoDB", "PostgreSQL", "PrismaDB", "NeDB"]
 }
 ```
-
-- 📫 How to reach me, drop an email at **yashkalavadiya1010@gmail.com**
-<!-- - My CV website:  -->
-- Thanks for visiting this profile. Follow me to get all the updates about my repositories and my open source works.
 ## 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yashkalavadiya&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <!--
