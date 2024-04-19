@@ -26,8 +26,10 @@ var developements = {
     "databases": ["MySQL", "MongoDB", "PostgreSQL", "PrismaDB", "NeDB"]
 }
 ```
+<!--
 ## 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yashkalavadiya&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+-->
 <!--
 ##
 
@@ -100,9 +102,9 @@ var developements = {
             alt="typescript" width="40" height="40" /> </a>
 </p> 
 -->
-
+<!--
 
 <img align="center" src="https://readme-stats-git-main-yashkalavadiya.vercel.app/api?username=yashkalavadiya&count_private=true&include_all_commits=true" />
 
 <br/>
-
+-->
